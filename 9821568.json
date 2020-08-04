@@ -1,0 +1,135 @@
+{
+   "folder": "door",
+   "filename": "9821568.jpg",
+   "path": "/door/9821568.jpg",
+   "source": {
+      "database": "Unspecified"
+   },
+   "size": {
+      "width": "576",
+      "height": "576",
+      "depth": "3"
+   },
+   "object": [
+      {
+         "name": "door",
+         "pose": "Unspecified",
+         "truncated": "Unspecified",
+         "difficult": "Unspecified",
+         "bndbox": {
+            "xmin": "353",
+            "ymin": "113",
+            "xmax": "423",
+            "ymax": "142"
+         }
+      },
+      {
+         "name": "door",
+         "pose": "Unspecified",
+         "truncated": "Unspecified",
+         "difficult": "Unspecified",
+         "bndbox": {
+            "xmin": "284",
+            "ymin": "129",
+            "xmax": "345",
+            "ymax": "157"
+         }
+      },
+      {
+         "name": "door",
+         "pose": "Unspecified",
+         "truncated": "Unspecified",
+         "difficult": "Unspecified",
+         "bndbox": {
+            "xmin": "202",
+            "ymin": "131",
+            "xmax": "270",
+            "ymax": "176"
+         }
+      },
+      {
+         "name": "door",
+         "pose": "Unspecified",
+         "truncated": "Unspecified",
+         "difficult": "Unspecified",
+         "bndbox": {
+            "xmin": "294",
+            "ymin": "177",
+            "xmax": "351",
+            "ymax": "206"
+         }
+      },
+      {
+         "name": "door",
+         "pose": "Unspecified",
+         "truncated": "Unspecified",
+         "difficult": "Unspecified",
+         "bndbox": {
+            "xmin": "305",
+            "ymin": "225",
+            "xmax": "371",
+            "ymax": "240"
+         }
+      },
+      {
+         "name": "door",
+         "pose": "Unspecified",
+         "truncated": "Unspecified",
+         "difficult": "Unspecified",
+         "bndbox": {
+            "xmin": "418",
+            "ymin": "210",
+            "xmax": "494",
+            "ymax": "234"
+         }
+      },
+      {
+         "name": "door",
+         "pose": "Unspecified",
+         "truncated": "Unspecified",
+         "difficult": "Unspecified",
+         "bndbox": {
+            "xmin": "257",
+            "ymin": "274",
+            "xmax": "323",
+            "ymax": "315"
+         }
+      },
+      {
+         "name": "door",
+         "pose": "Unspecified",
+         "truncated": "Unspecified",
+         "difficult": "Unspecified",
+         "bndbox": {
+            "xmin": "175",
+            "ymin": "270",
+            "xmax": "243",
+            "ymax": "307"
+         }
+      },
+      {
+         "name": "door",
+         "pose": "Unspecified",
+         "truncated": "Unspecified",
+         "difficult": "Unspecified",
+         "bndbox": {
+            "xmin": "271",
+            "ymin": "413",
+            "xmax": "353",
+            "ymax": "463"
+         }
+      },
+      {
+         "name": "door",
+         "pose": "Unspecified",
+         "truncated": "Unspecified",
+         "difficult": "Unspecified",
+         "bndbox": {
+            "xmin": "333",
+            "ymin": "478",
+            "xmax": "395",
+            "ymax": "500"
+         }
+      }
+   ]
+}
